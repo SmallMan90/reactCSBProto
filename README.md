@@ -1,2 +1,0 @@
-# reactCSBProto
-Created with CodeSandbox
